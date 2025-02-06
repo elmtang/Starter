@@ -8,11 +8,11 @@ int currentAssignments = 5;
 //I will work on guided project 
 int[] studentScore = new int[currentAssignments];
 
-int sophia1 = 90;
-int sophia2 = 86;
-int sophia3 = 87;
-int sophia4 = 98;
-int sophia5 = 95;
+studentScore[0] = 90;
+studentScore[1] = 86;
+studentScore[2] = 87;
+studentScore[3] = 98;
+studentScore[4] = 95;
 
 int andrew1 = 92;
 int andrew2 = 89;

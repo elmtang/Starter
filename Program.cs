@@ -1,13 +1,18 @@
-﻿using System;
+﻿
+
+
 
 // initialize variables - graded assignments 
 int currentAssignments = 5;
+
+//I will work on guided project 
+int[] studentScore = new int[currentAssignments];
 
 int sophia1 = 90;
 int sophia2 = 86;
 int sophia3 = 87;
 int sophia4 = 98;
-int sophia5 = 100;
+int sophia5 = 95;
 
 int andrew1 = 92;
 int andrew2 = 89;

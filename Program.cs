@@ -16,11 +16,11 @@ studentScore[2] = 87;
 studentScore[3] = 98;
 studentScore[4] = 95;
 
-int total = 0;
+int sum = 0;
 foreach (int score in studentScore) {
-    total += score;
+    sum += score;
 }
-decimal avgScore = total / currentAssignments;
+decimal avgScore = (decimal) sum / currentAssignments;
 
 
 int andrew1 = 92;

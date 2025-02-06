@@ -3,6 +3,8 @@
 
 
 // initialize variables - graded assignments 
+using System.Globalization;
+
 int currentAssignments = 5;
 
 //I will work on guided project 
@@ -13,6 +15,13 @@ studentScore[1] = 86;
 studentScore[2] = 87;
 studentScore[3] = 98;
 studentScore[4] = 95;
+
+int total = 0;
+foreach (int score in studentScore) {
+    total += score;
+}
+decimal avgScore = total / currentAssignments;
+
 
 int andrew1 = 92;
 int andrew2 = 89;

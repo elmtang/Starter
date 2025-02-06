@@ -1,0 +1,14 @@
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\Dropbox\BMCC Drop box\BMCC Dropbox\Hao Tang\teaching resources\SD-350\Spring2025\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll

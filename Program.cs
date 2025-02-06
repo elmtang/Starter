@@ -20,8 +20,9 @@ int sum = 0;
 foreach (int score in studentScore) {
     sum += score;
 }
+//compute the average
 decimal avgScore = (decimal) sum / currentAssignments;
-
+Console.WriteLine($"avgScore {avgScore}");
 
 int andrew1 = 92;
 int andrew2 = 89;

@@ -1,6 +1,6 @@
 ﻿
 
-
+//add comment for testing a new branch
 
 // initialize variables - graded assignments 
 int currentAssignments = 5;
